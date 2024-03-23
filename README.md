@@ -1,5 +1,5 @@
 # Study Software Achitecture Week6
-Practice week 6 of Software Achitecture and Design subject <br>
+Practice week 6 (extended week5) of Software Achitecture and Design subject <br>
 
 <h3>FullName: Trần Quang Huy</h3>
 <h3>StudentID: 20092731</h3>
