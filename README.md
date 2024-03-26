@@ -11,6 +11,10 @@ Practice week 6 (extended week5) of Software Achitecture and Design subject <br>
 # Eureka Server - Discovery Service
 <img width="1440" alt="Ảnh màn hình 2024-03-13 lúc 14 12 46" src="https://github.com/tranquanghuy-09/SoftwareArchitecture-Week5/assets/107989088/5e155918-37f3-4dab-b540-d5a34d167821">
 
+# Config on cloud
+<img width="1440" alt="Ảnh màn hình 2024-03-18 lúc 11 12 07" src="https://github.com/tranquanghuy-09/SoftwareArchitecture-Week6/assets/107989088/88c1c459-153c-4f53-95ab-f73469bca4ec">
+
+
 # Demo
 https://github.com/tranquanghuy-09/SoftwareArchitecture-Week5/assets/107989088/748269ce-6d60-4307-afb7-1c2f7e02d1ff
 
